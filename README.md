@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Computer Science and Linux stuff
-- ⚡ "El día que el Samurai tenga una buena espada, nadie podrá derrotarle; entonces, seremos invencibles."
+- ⚡ Athletic Club enjoyer
 
