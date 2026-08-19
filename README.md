@@ -36,17 +36,8 @@ Me interesan especialmente los campos más cercanos al funcionamiento interno, e
 
 ---
 
-### 🛠️ Lenguajes & Herramientas / Languages & Tools
-
-*(A medida que aprenda más tecnologías, iré actualizando esta sección / Updating as I learn more)*
-
-- **Lenguajes / Languages:** Java, Python, Bash / Shell
-- **Sistemas & Entornos / Systems & Tools:** Linux / Unix, Git & GitHub
-
----
-
 ### 📫 Contacto / Contact
 
-- **GitHub:** [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn:** [Tu Nombre / Your Name](https://linkedin.com/in/tu-perfil) *(Opcional / Optional)*
-- **Email:** [tu-correo@uji.es](mailto:tu-correo@uji.es)
+- **GitHub:** [@luisinho-stufufu]([https://github.com/tu-usuario](https://github.com/luisinho-stufufu))
+- **LinkedIn:** [Luis Eres Vidal] Not yet
+- **Email:** [al435133@uji.es](mailto:al435133@uji.es)
