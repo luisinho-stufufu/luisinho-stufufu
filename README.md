@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Linux stuff
-- ⚡ Athletic Club enjoyer
+- Computer Engineering in Universitat Jaume I (Castellón, Spain)
 - I'm just getting started, so this will look empty for a while
 
